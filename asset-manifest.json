@@ -1,15 +1,15 @@
 {
-  "main.css": "/robo-friends-pwa/static/css/main.7b499d29.chunk.css",
-  "main.js": "/robo-friends-pwa/static/js/main.8d388af9.chunk.js",
-  "main.js.map": "/robo-friends-pwa/static/js/main.8d388af9.chunk.js.map",
-  "static/css/1.3b1482a7.chunk.css": "/robo-friends-pwa/static/css/1.3b1482a7.chunk.css",
-  "static/js/1.67a0ef37.chunk.js": "/robo-friends-pwa/static/js/1.67a0ef37.chunk.js",
-  "static/js/1.67a0ef37.chunk.js.map": "/robo-friends-pwa/static/js/1.67a0ef37.chunk.js.map",
-  "runtime~main.js": "/robo-friends-pwa/static/js/runtime~main.df9f1c12.js",
-  "runtime~main.js.map": "/robo-friends-pwa/static/js/runtime~main.df9f1c12.js.map",
-  "static/css/1.3b1482a7.chunk.css.map": "/robo-friends-pwa/static/css/1.3b1482a7.chunk.css.map",
-  "static/css/main.7b499d29.chunk.css.map": "/robo-friends-pwa/static/css/main.7b499d29.chunk.css.map",
-  "index.html": "/robo-friends-pwa/index.html",
-  "precache-manifest.f217f69e9453f8345e24bfaa0e62395b.js": "/robo-friends-pwa/precache-manifest.f217f69e9453f8345e24bfaa0e62395b.js",
-  "service-worker.js": "/robo-friends-pwa/service-worker.js"
+  "main.css": "/robofriends-pwa/static/css/main.7b499d29.chunk.css",
+  "main.js": "/robofriends-pwa/static/js/main.2c3bca08.chunk.js",
+  "main.js.map": "/robofriends-pwa/static/js/main.2c3bca08.chunk.js.map",
+  "static/css/1.3b1482a7.chunk.css": "/robofriends-pwa/static/css/1.3b1482a7.chunk.css",
+  "static/js/1.67a0ef37.chunk.js": "/robofriends-pwa/static/js/1.67a0ef37.chunk.js",
+  "static/js/1.67a0ef37.chunk.js.map": "/robofriends-pwa/static/js/1.67a0ef37.chunk.js.map",
+  "runtime~main.js": "/robofriends-pwa/static/js/runtime~main.2581e180.js",
+  "runtime~main.js.map": "/robofriends-pwa/static/js/runtime~main.2581e180.js.map",
+  "static/css/1.3b1482a7.chunk.css.map": "/robofriends-pwa/static/css/1.3b1482a7.chunk.css.map",
+  "static/css/main.7b499d29.chunk.css.map": "/robofriends-pwa/static/css/main.7b499d29.chunk.css.map",
+  "index.html": "/robofriends-pwa/index.html",
+  "precache-manifest.3af5f25ba2ec8580d0386ce8c4b23362.js": "/robofriends-pwa/precache-manifest.3af5f25ba2ec8580d0386ce8c4b23362.js",
+  "service-worker.js": "/robofriends-pwa/service-worker.js"
 }
