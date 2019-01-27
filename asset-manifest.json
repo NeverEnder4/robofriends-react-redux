@@ -1,15 +1,15 @@
 {
-  "main.css": "/robofriends-pwa/static/css/main.7b499d29.chunk.css",
-  "main.js": "/robofriends-pwa/static/js/main.2c3bca08.chunk.js",
-  "main.js.map": "/robofriends-pwa/static/js/main.2c3bca08.chunk.js.map",
-  "static/css/1.3b1482a7.chunk.css": "/robofriends-pwa/static/css/1.3b1482a7.chunk.css",
-  "static/js/1.67a0ef37.chunk.js": "/robofriends-pwa/static/js/1.67a0ef37.chunk.js",
-  "static/js/1.67a0ef37.chunk.js.map": "/robofriends-pwa/static/js/1.67a0ef37.chunk.js.map",
-  "runtime~main.js": "/robofriends-pwa/static/js/runtime~main.2581e180.js",
-  "runtime~main.js.map": "/robofriends-pwa/static/js/runtime~main.2581e180.js.map",
-  "static/css/main.7b499d29.chunk.css.map": "/robofriends-pwa/static/css/main.7b499d29.chunk.css.map",
-  "static/css/1.3b1482a7.chunk.css.map": "/robofriends-pwa/static/css/1.3b1482a7.chunk.css.map",
-  "index.html": "/robofriends-pwa/index.html",
-  "precache-manifest.3af5f25ba2ec8580d0386ce8c4b23362.js": "/robofriends-pwa/precache-manifest.3af5f25ba2ec8580d0386ce8c4b23362.js",
-  "service-worker.js": "/robofriends-pwa/service-worker.js"
+  "main.css": "/robofriends-react-redux/static/css/main.7b499d29.chunk.css",
+  "main.js": "/robofriends-react-redux/static/js/main.78e1f2e5.chunk.js",
+  "main.js.map": "/robofriends-react-redux/static/js/main.78e1f2e5.chunk.js.map",
+  "static/css/1.3b1482a7.chunk.css": "/robofriends-react-redux/static/css/1.3b1482a7.chunk.css",
+  "static/js/1.67a0ef37.chunk.js": "/robofriends-react-redux/static/js/1.67a0ef37.chunk.js",
+  "static/js/1.67a0ef37.chunk.js.map": "/robofriends-react-redux/static/js/1.67a0ef37.chunk.js.map",
+  "runtime~main.js": "/robofriends-react-redux/static/js/runtime~main.13f2e517.js",
+  "runtime~main.js.map": "/robofriends-react-redux/static/js/runtime~main.13f2e517.js.map",
+  "static/css/main.7b499d29.chunk.css.map": "/robofriends-react-redux/static/css/main.7b499d29.chunk.css.map",
+  "static/css/1.3b1482a7.chunk.css.map": "/robofriends-react-redux/static/css/1.3b1482a7.chunk.css.map",
+  "index.html": "/robofriends-react-redux/index.html",
+  "precache-manifest.00671d934604a996dd9b7d9b3c52943b.js": "/robofriends-react-redux/precache-manifest.00671d934604a996dd9b7d9b3c52943b.js",
+  "service-worker.js": "/robofriends-react-redux/service-worker.js"
 }
